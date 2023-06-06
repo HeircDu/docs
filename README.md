@@ -1,2 +1,2 @@
 # docs
-我的vuepree测试
+我的vuepress测试
